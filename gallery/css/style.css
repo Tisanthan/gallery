@@ -3563,3 +3563,22 @@ h1, h2, h3, h4, h5, h6 {
   top: 8px;
   left: 10px;
 }
+
+
+.text-block {
+  position: relative;
+  bottom: 20px;
+  right: 20px;
+  background-color: rgba(54, 53, 53, 0.66);
+  color: #ffffff;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+div.b {
+  position: absolute;
+  left: 150px;
+  top: 150px;
+  width: 400px;
+  height: 120px;
+}
